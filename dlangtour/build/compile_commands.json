@@ -1,0 +1,44 @@
+[
+  {
+    "directory": "/home/falih/dlangtour/build",
+    "command": "dmd -I=app.p -I=. -I=.. -color=on -wi -g -debug -makedeps=app.p/main.d.o.deps -of=app.p/main.d.o -c ../main.d",
+    "file": "../main.d",
+    "output": "app.p/main.d.o"
+  },
+  {
+    "directory": "/home/falih/dlangtour/build",
+    "command": "dmd -I=app.p -I=. -I=.. -color=on -wi -g -debug -makedeps=app.p/solver.d.o.deps -of=app.p/solver.d.o -c ../solver.d",
+    "file": "../solver.d",
+    "output": "app.p/solver.d.o"
+  },
+  {
+    "directory": "/home/falih/dlangtour/build",
+    "command": "dmd -I=app.p -I=. -I=.. -color=on -wi -g -debug -makedeps=app.p/student.d.o.deps -of=app.p/student.d.o -c ../student.d",
+    "file": "../student.d",
+    "output": "app.p/student.d.o"
+  },
+  {
+    "directory": "/home/falih/dlangtour/build",
+    "command": "dmd -I=app.p -I=. -I=.. -color=on -wi -g -debug -makedeps=app.p/student_score.d.o.deps -of=app.p/student_score.d.o -c ../student_score.d",
+    "file": "../student_score.d",
+    "output": "app.p/student_score.d.o"
+  },
+  {
+    "directory": "/home/falih/dlangtour/build",
+    "command": "dmd -I=app.p -I=. -I=.. -color=on -wi -g -debug -makedeps=app.p/student_list.d.o.deps -of=app.p/student_list.d.o -c ../student_list.d",
+    "file": "../student_list.d",
+    "output": "app.p/student_list.d.o"
+  },
+  {
+    "directory": "/home/falih/dlangtour/build",
+    "command": "dmd -I=app.p -I=. -I=.. -color=on -wi -g -debug -makedeps=app.p/io.d.o.deps -of=app.p/io.d.o -c ../io.d",
+    "file": "../io.d",
+    "output": "app.p/io.d.o"
+  },
+  {
+    "directory": "/home/falih/dlangtour/build",
+    "command": "dmd -I=app.p -I=. -I=.. -color=on -wi -g -debug -makedeps=app.p/solver_10.d.o.deps -of=app.p/solver_10.d.o -c ../solver_10.d",
+    "file": "../solver_10.d",
+    "output": "app.p/solver_10.d.o"
+  }
+]

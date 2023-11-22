@@ -1,0 +1,29 @@
+Build started at 2023-11-21T16:20:36.684241
+Main binary: /usr/bin/python3
+Build Options: -Dbackend=ninja
+Python system: Linux
+The Meson build system
+Version: 0.61.2
+Source dir: /home/falih/dlangtour
+Build dir: /home/falih/dlangtour/build
+Build type: native build
+Project name: test
+Project version: undefined
+D compiler for the host machine: dmd (dmd 2.105.3 "DMD64 D Compiler v2.105.3")
+D linker for the host machine: dmd ld.bfd 2.38
+D compiler for the build machine: dmd (dmd 2.105.3 "DMD64 D Compiler v2.105.3")
+D linker for the build machine: dmd ld.bfd 2.38
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Host machine cpu family: x86_64
+Host machine cpu: x86_64
+Target machine cpu family: x86_64
+Target machine cpu: x86_64
+Build targets in project: 1
+
+test undefined
+
+  User defined options
+    backend: ninja
+
+Found ninja-1.10.1 at /usr/bin/ninja
